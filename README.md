@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @arjungupta26
-- 👀 I’m interested in building projects
-- 🌱 I’m currently learning about various tools and technology about development
+- 👀 I’m passionate about cryptography and web development. I enjoy building secure and scalable applications. Skilled in Node.js, Express, MongoDB, EJS, HTML, CSS, JavaScript, and React. Always exploring new technologies to enhance my projects. Let's connect and build something awesome! 🔐💻
 - 📫 How to reach me - arjungupta0026@gmail.com
